@@ -1,0 +1,4 @@
+/vis/open OGL
+/vis/viewer/set/viewpointVector 0.5 1 0.5
+/vis/drawVolume
+/vis/viewer/set/autoRefresh true

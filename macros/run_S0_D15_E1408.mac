@@ -1,0 +1,6 @@
+/DetectorConstruction/Sample_Material S0
+/DetectorConstruction/Sample_Thickness 15.000000000
+/DetectorConstruction/update
+/gun/energy 1408.000000 keV
+/analysis/setFileName hist_S0_D15_E1408
+/run/beamOn 1000000

@@ -1,0 +1,13 @@
+build/
+_drive_staging/
+_backup/
+*.root
+*.exe
+*.obj
+*.lib
+*.pdb
+*.csv
+!manifest_paper7.csv
+!checklist_paper7.csv
+__pycache__/
+.vscode/
